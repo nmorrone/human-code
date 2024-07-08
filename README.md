@@ -1,0 +1,21 @@
+# Scegliere cosa guardare su Netflix
+
+- accendo la TV
+    - prendo il telecomando dal divano
+    - clicco il pulsante di accensione della TV
+- avvio Netflix
+    - vado nel menu della TV
+    - selezione Netflix tra le applicazioni installate
+- cerco un film nel catalogo
+    - apro la sezione film di Netflix
+    - seleziono il genere di film
+    - cerco un film
+- cerco di capire se piace a tutti
+    - trovo un titolo di film
+    - leggo trama del film
+    - chiedo il parere dei miei amici
+        - SE la maggioranza è d'accordo
+            - seleziono il film 
+        - ALTRIMENTI
+            - cerco un altro titolo
+- riproduco il film
